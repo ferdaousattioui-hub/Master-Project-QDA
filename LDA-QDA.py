@@ -33,7 +33,6 @@ if page == "1. Présentation (PDF)":
     st.title("📂 Présentation du Projet - LDA & QDA")
     st.write("Analyse Discriminante Linéaire et Quadratique.")
     
-    # Lien exact dyal Drive jdid dyalk
     file_id = "1Z851NjEXS3l4_GaaeRDWUW8sau_Lc_In"  
     lien_drive_embed = f"https://drive.google.com/file/d/{file_id}/preview"
     
